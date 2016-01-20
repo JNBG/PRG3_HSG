@@ -7,6 +7,6 @@ public class Test {
     public Test(){}
 
     public void write(){
-        System.out.println("Hallo");
+        System.out.println("Hallo Welt");
     }
 }
